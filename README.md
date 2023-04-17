@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/67023325/232356468-563238f8-691e-41ef-8199-9a3bd079a783.png)
+
+
+
 <h1>Which Loans Might Default?</h1>
 <h2>LendingClub Data Analysis and Prediction</h2>
 
